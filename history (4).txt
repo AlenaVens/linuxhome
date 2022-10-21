@@ -1,0 +1,6 @@
+   0 vi /tmp/file.txt
+   1 export NAME=Alena VAR=Vianskouskaya
+   2 echo $NAME $VAR >> file.txt
+   3 nano file.txt
+   4 history
+   5 history > history.txt
