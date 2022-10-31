@@ -1,0 +1,4 @@
+   0 nano sleeper.sh
+   1 cat /proc/cpuinfo
+   2 nano sleeper.sh
+   3 history > history.txt
